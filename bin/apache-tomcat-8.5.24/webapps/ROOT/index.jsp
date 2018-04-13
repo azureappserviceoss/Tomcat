@@ -38,7 +38,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
                 <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
                 <span id="nav-hosts"><a href="${tomcatDocUrl}">Tomcat</a></span>
                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
-                <span id="nav-examples"><a href="${tomcatExamplesUrl}">YEP</a></span>
+                <span id="nav-examples"><a href="${tomcatExamplesUrl}">GREAT</a></span>
                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
