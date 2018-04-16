@@ -2,7 +2,7 @@ node
 {
   stage('init')
   {
-    checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/El-Oumar/Tomcat.git']]])
+    checkout([$class: 'GitSCM', branches: [[name: '*/prod']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/El-Oumar/Tomcat.git']]])
     
     sh "pwd"
     sh "ls -al"
