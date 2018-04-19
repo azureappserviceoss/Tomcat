@@ -12,5 +12,6 @@ node
   {
     azureWebAppPublish appName: 'jenkinsjavawebapp', azureCredentialsId: 'azurejavaid', filePath: '', publishType: 'file', resourceGroup: 'jenkinsjavawebapp', slotName: 'staging', sourceDirectory: '', targetDirectory: ''
     sh "ls -al"
+    sh 'echo "lool"'
   }
 }
