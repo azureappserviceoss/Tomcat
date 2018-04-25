@@ -35,10 +35,10 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     <body>
         <div id="wrapper">
             <div id="navigation" class="curved container">
-                <span id="nav-home"><a href="${tomcatUrl}">Home</a></span>
-                <span id="nav-hosts"><a href="${tomcatDocUrl}">Documentation</a></span>
+                <span id="nav-home"><a href="${tomcatUrl}">PRODXX</a></span>
+                <span id="nav-hosts"><a href="${tomcatDocUrl}">COOLING</a></span>
                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
-                <span id="nav-examples"><a href="${tomcatExamplesUrl}">Examples</a></span>
+                <span id="nav-examples"><a href="${tomcatExamplesUrl}">GREAT</a></span>
                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
                 <span id="nav-lists"><a href="${tomcatUrl}lists.html">Mailing Lists</a></span>
                 <span id="nav-help"><a href="${tomcatUrl}findhelp.html">Find Help</a></span>
