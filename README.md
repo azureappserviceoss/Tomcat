@@ -1,5 +1,9 @@
 # Tomcat
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+To create a Tomcat web app, open the Azure Portal in your browser and click the green "**+**" icon. In the new pane, click "Web App".
 
-Develop your Java website using Apache Tomcat. Apache Tomcat is an open source software implementation of the Java Servlet and JavaServer Pages technologies.Unlike the version available via web site configuration, this install is a completely customizable installation.
+![Click "Web App" in the pane.](/imgs/photo1.png)
+
+In the pane that follows, enter your desired application name, resource group, and app service plan tier. Finally, select "Linux" as the operating system, and select Tomcat in the dropdown list of runtime stacks.
+
+![Enter your desired values and click "create"](/imgs/photo2.png)
