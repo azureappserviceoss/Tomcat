@@ -1,9 +1,3 @@
 # Tomcat
 
-To create a Tomcat web app, open the Azure Portal in your browser and click the green "**+**" icon. In the new pane, click "Web App".
-
-![Click "Web App" in the pane.](/imgs/photo1.png)
-
-In the pane that follows, enter your desired application name, resource group, and app service plan tier. Finally, select "Linux" as the operating system, and select Tomcat in the dropdown list of runtime stacks.
-
-![Enter your desired values and click "create"](/imgs/photo2.png)
+To create a Tomcat web app, [follow this quickstart](https://docs.microsoft.com/en-us/azure/app-service/quickstart-java?tabs=tomcat&pivots=platform-linux). Alternatively, you can create a Java SE web app for Spring Boot or other embedded-servlet applications by following [this quickstart](https://docs.microsoft.com/en-us/azure/app-service/quickstart-java?tabs=javase&pivots=platform-linux).
